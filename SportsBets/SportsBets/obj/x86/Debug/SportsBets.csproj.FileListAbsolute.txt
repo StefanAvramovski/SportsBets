@@ -1,0 +1,12 @@
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\bin\Debug\SportsBets.exe
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\bin\Debug\SportsBets.pdb
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Form1.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Properties.Resources.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.csproj.GenerateResource.Cache
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.StartPage.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.TicketsView.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\bin\Debug\SportsBets.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Details.resources
+C:\Users\Stefan\Documents\Visual Studio 2010\Projects\VizuelnoProgramiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.csprojResolveAssemblyReference.cache
